@@ -27,7 +27,7 @@ Refer to the first [link](#links).
 Refer to this [pdf](./big_o.pdf):
 
 - What is the difference between complexity and performance:
-- Does complexity affects performance bor is it the other way around?
+- Does complexity affects performance or is it the other way around?
 - Restate the formal definition of big $O$ in plain English
 
 ## Links
