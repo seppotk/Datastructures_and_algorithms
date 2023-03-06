@@ -6,8 +6,13 @@ struct node
     struct node *next;
 };
 
-struct node *head = NULL;
-struct node *tail = NULL;
+//struct node *head = NULL;
+//struct node *tail = NULL;
+
+struct node* front = NULL;
+struct node* rear = NULL;
+
+
 struct node *temp;
 
 void Insert(int val)
