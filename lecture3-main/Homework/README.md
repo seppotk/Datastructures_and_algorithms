@@ -2,7 +2,7 @@
 
 ## Task 1/3:Videos
 
-- [Sorts 1 Introduction to sorts (~8min)]()
+- [Sorts 1 Introduction to sorts (~8min)](https://www.youtube.com/watch?v=H3FCoYQMKvI)
 - [Sorts 2 Selection Sort (~5min)](https://youtu.be/fgYlVyrt1vE)
 - [Sorts 3 Insertion Sort (~5min)](https://youtu.be/eTvQIbB-AuE)
 - [Sorts 4 Insertion Sort Code (~4min)](https://youtu.be/3U2vTqaL7uE)
