@@ -1,7 +1,9 @@
 // C++ program to solve fractional Knapsack Problem
 
  
-#include <bits/stdc++.h>
+ //#include <bits/stdc++.h>
+
+ #include <algorithm>  // for sort
 
 #include <iostream>
 using namespace std;
